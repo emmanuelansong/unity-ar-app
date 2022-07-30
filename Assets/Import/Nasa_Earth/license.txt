@@ -1,0 +1,11 @@
+Model Information:
+* title:	Nasa Earth
+* source:	https://sketchfab.com/3d-models/nasa-earth-aa2029d913b4412da84d6d6439694506
+* author:	gagaball88 (https://sketchfab.com/gagaball88)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Nasa Earth" (https://sketchfab.com/3d-models/nasa-earth-aa2029d913b4412da84d6d6439694506) by gagaball88 (https://sketchfab.com/gagaball88) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
